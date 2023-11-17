@@ -1,0 +1,1 @@
+export const FETCH_URL = 'https://api.magicthegathering.io/v1/cards';
